@@ -19,7 +19,7 @@ The datasets used are as follows:
 
 Each ipynb file corresponds to each objective function mentioned above.
 
-1. Objective 1: Diachronic Analysis.ipynb
+1. Objective 1: Inter-Language Dependencies.ipynb
 2. Objective 2: Regional Analysis.ipynb
 3. Objective 3: Semantic Density.ipynb 
 
